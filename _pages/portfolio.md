@@ -125,8 +125,8 @@ This project performs robust edge detection on digital images heavily degraded b
 
 ### High-Dimensional Video Background Subtraction
 
-**Technologies:** Randomized SVD, Low-Rank Approximation, Computer Vision
-**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW3)
+**Technologies:** Randomized SVD, Low-Rank Approximation, Computer Vision   
+**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW3)    
 **Duration:** Course project, 2026  
 **Course:** AMATH 582 - Advanced Computational Methods for Data Analysis
 
@@ -145,9 +145,9 @@ This project performs real-time background subtraction on video data where deter
 
 ### Physicochemical Wine Quality Classification
 
-**Technologies:** Machine Learning, Kernel Ridge Regression, Supervised Learning
-**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW4)
-**Duration:** Course project, 2026  
+**Technologies:** Machine Learning, Kernel Ridge Regression, Supervised Learning    
+**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW4)    
+**Duration:** Course project, 2026     
 **Course:** AMATH 582 - Advanced Computational Methods for Data Analysis
 
 This project classifies wine quality using 11 chemical features while navigating class imbalances and complex, non-linear feature relationships.
@@ -165,9 +165,9 @@ This project classifies wine quality using 11 chemical features while navigating
 
 ### Spectral Clustering of Political Networks
 
-**Technologies:** Spectral Clustering, Graph Theory, Semi-Supervised Learning
-**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW5)
-**Duration:** Course project, 2026  
+**Technologies:** Spectral Clustering, Graph Theory, Semi-Supervised Learning   
+**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW5)    
+**Duration:** Course project, 2026      
 **Course:** AMATH 582 - Advanced Computational Methods for Data Analysis
 
 This project predicts the partisan affiliation of 435 U.S. House members based on categorical voting records—a topological space where standard K-Means clustering fails.
@@ -189,7 +189,7 @@ This project predicts the partisan affiliation of 435 U.S. House members based o
 **Technologies:** Python, Jupyter Notebook, NumPy, Scikit-learn  
 **GitHub:** [github.com/caleb-cramer/MLFinalProject](https://github.com/caleb-cramer/MLFinalProject)  
 **Duration:** Course project, 2021  
-**Course:** CPSC 322 - Introduction to Data Mining (University of British Columbia)
+**Course:** CPSC 322 - Intro to Machine Learning (Gonzaga University)
 
 Implemented fundamental machine learning algorithms from scratch without relying on high-level ML libraries. This project demonstrates deep understanding of algorithm mechanics and computational implementation.
 

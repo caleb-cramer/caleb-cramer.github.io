@@ -25,3 +25,11 @@ include:
 # Minimal author info - no personal details exposed
 author:
   name: "Caleb Cramer"
+
+# MathJax Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      mathjax: true
