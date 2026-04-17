@@ -1,0 +1,4 @@
+# robots.txt - Block search engines from indexing
+# This keeps your portfolio private while allowing direct access
+User-agent: *
+Disallow: /

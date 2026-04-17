@@ -1,0 +1,25 @@
+# Site Settings
+title: "Caleb Cramer"
+tagline: "Machine Learning & AI Portfolio"
+description: "Showcasing machine learning projects and research in numerical analysis, online learning, and computer vision"
+url: "https://caleb-cramer.github.io"
+repository: "caleb-cramer/caleb-cramer.github.io"
+
+# Theme
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: "default" # options: "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+# Minimal author info - no personal details exposed
+author:
+  name: "Caleb Cramer"
