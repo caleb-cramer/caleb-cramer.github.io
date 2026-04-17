@@ -3,6 +3,7 @@ layout: archive
 title: "Projects"
 permalink: /portfolio/
 author_profile: false
+mathjax: true
 ---
 
 ## ML/AI & Computational Projects
@@ -15,7 +16,7 @@ Below are my machine learning, computational, and research projects. Each includ
 
 **Technologies:** Python, Jupyter Notebook, Online Learning Algorithms  
 **GitHub:** [github.com/caleb-cramer/Dueling-Bandits-for-ATP-Tennis](https://github.com/caleb-cramer/Dueling-Bandits-for-ATP-Tennis)  
-**Duration:** Course project, 2024  
+**Duration:** Course project, 2026   
 **Course:** CSE 541 - Interactive Learning (University of Washington)
 
 This project applies dueling bandit algorithms to professional tennis (ATP) match prediction and analysis. Using online learning techniques, the algorithm learns to predict match outcomes and player performance based on head-to-head comparisons.
@@ -36,7 +37,7 @@ This project applies dueling bandit algorithms to professional tennis (ATP) matc
 
 **Technologies:** Python, Jupyter Notebook, Numerical Methods, PDEs  
 **GitHub:** [github.com/caleb-cramer/581FinalProject](https://github.com/caleb-cramer/581FinalProject)  
-**Duration:** Course project, 2024  
+**Duration:** Course project, 2025    
 **Course:** AMATH 581 - Scientific Computing (University of Washington)
 
 This project models wildfire spread using a coupled system of partial differential equations incorporating reaction, diffusion, and convection dynamics. The work bridges numerical analysis with real-world environmental applications.
@@ -81,9 +82,9 @@ Research focused on developing and analyzing staggered designer multistep method
 
 ### Submarine Tracking via Spectral Filtering
 
-**Technologies:** Signal Processing, 3D Fast Fourier Transform, Spectral Analysis
-**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW1)
-**Duration:** Course project
+**Technologies:** Signal Processing, 3D Fast Fourier Transform, Spectral Analysis   
+**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW1)    
+**Duration:** Course project, 2026  
 **Course:** AMATH 582 - Advanced Computational Methods for Data Analysis
 
 This project focuses on isolating and tracking a moving target's frequency signature from highly noisy 3D hydroacoustic sensor data. 
@@ -102,9 +103,9 @@ This project focuses on isolating and tracking a moving target's frequency signa
 
 ### Multi-Resolution Edge Detection in Degraded Images
 
-**Technologies:** Discrete Wavelet Transforms, Multi-Resolution Analysis, Image Processing
-**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW2)
-**Duration:** Course project
+**Technologies:** Discrete Wavelet Transforms, Multi-Resolution Analysis, Image Processing  
+**GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW2)    
+**Duration:** Course project, 2026  
 **Course:** AMATH 582 - Advanced Computational Methods for Data Analysis
 
 This project performs robust edge detection on digital images heavily degraded by varying levels of noise without losing structural boundaries. 
@@ -126,7 +127,7 @@ This project performs robust edge detection on digital images heavily degraded b
 
 **Technologies:** Randomized SVD, Low-Rank Approximation, Computer Vision
 **GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW3)
-**Duration:** Course project
+**Duration:** Course project, 2026  
 **Course:** AMATH 582 - Advanced Computational Methods for Data Analysis
 
 This project performs real-time background subtraction on video data where deterministic Singular Value Decomposition (SVD) is computationally prohibitive.
@@ -146,7 +147,7 @@ This project performs real-time background subtraction on video data where deter
 
 **Technologies:** Machine Learning, Kernel Ridge Regression, Supervised Learning
 **GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW4)
-**Duration:** Course project
+**Duration:** Course project, 2026  
 **Course:** AMATH 582 - Advanced Computational Methods for Data Analysis
 
 This project classifies wine quality using 11 chemical features while navigating class imbalances and complex, non-linear feature relationships.
@@ -166,7 +167,7 @@ This project classifies wine quality using 11 chemical features while navigating
 
 **Technologies:** Spectral Clustering, Graph Theory, Semi-Supervised Learning
 **GitHub:** [https://github.com/caleb-cramer/Computational-Methods-Data-Analysis](https://github.com/caleb-cramer/Computational-Methods-Data-Analysis/tree/main/HW5)
-**Duration:** Course project
+**Duration:** Course project, 2026  
 **Course:** AMATH 582 - Advanced Computational Methods for Data Analysis
 
 This project predicts the partisan affiliation of 435 U.S. House members based on categorical voting records—a topological space where standard K-Means clustering fails.
@@ -230,7 +231,7 @@ A competitive Rock-Paper-Scissors playing engine that exploits statistical patte
 
 **Technologies:** Java, Database Systems  
 **GitHub:** [github.com/caleb-cramer/224Project](https://github.com/caleb-cramer/224Project)  
-**Duration:** Course project  
+**Duration:** Course project, 2021  
 **Course:** CPSC 224 - Computer Systems II
 
 Full-stack database application integrating data management with visualization capabilities.

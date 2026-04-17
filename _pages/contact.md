@@ -41,6 +41,6 @@ Use the form below to send me a message. I'll get back to you as soon as I can.
 ## Other Ways to Connect
 
 **GitHub:** [github.com/caleb-cramer](https://github.com/caleb-cramer)  
-**LinkedIn:** [Your LinkedIn URL]
+**LinkedIn:** [linkedin.com/in/caleb-cra](https://www.linkedin.com/in/caleb-cra/)
 
 *I don't display my email publicly for security reasons, but you can reach me through the form above or through the platforms listed.*
