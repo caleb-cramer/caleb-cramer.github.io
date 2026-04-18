@@ -3,7 +3,6 @@ layout: archive
 title: "Research & Papers"
 permalink: /research/
 author_profile: false
-mathjax: true
 ---
 
 ## Publications & Research

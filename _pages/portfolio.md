@@ -3,7 +3,6 @@ layout: archive
 title: "Projects"
 permalink: /portfolio/
 author_profile: false
-mathjax: true
 ---
 
 ## ML/AI & Computational Projects
@@ -93,7 +92,7 @@ This project focuses on isolating and tracking a moving target's frequency signa
 
 **Key Results:**
 - Successfully decoupled the submarine's mechanical signature from heavy Gaussian white noise to reconstruct its precise 3D flight path.
-- Improved computational efficiency from $O(N^2)$ to $O(N \log N)$.
+- Improved computational efficiency from $$O(N^2)$$ to $$O(N \log N)$$.
 
 **Technical Approach:**
 - Transformed 4D spatial-temporal tensor data into the frequency domain utilizing a 3D Fast Fourier Transform (FFT).
@@ -135,7 +134,7 @@ This project performs real-time background subtraction on video data where deter
 
 
 **Key Results:**
-- Reduced algorithmic complexity from $O(mn^2)$ to $O(mn \log k)$, achieving a 120x computational speedup on test datasets.
+- Reduced algorithmic complexity from $$O(mn^2)$$ to $$O(mn \log k)$$, achieving a 120x computational speedup on test datasets.
 - Visual analysis proved the randomized method maintained near-identical accuracy for separating the static background (low-rank structure) from moving foreground elements (sparse outliers).
 
 **Technical Approach:**

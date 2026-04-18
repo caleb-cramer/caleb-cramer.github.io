@@ -30,6 +30,5 @@ author:
 defaults:
   - scope:
       path: ""
-      type: posts
     values:
       mathjax: true

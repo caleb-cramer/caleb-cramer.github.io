@@ -12,7 +12,7 @@ excerpt: "Exploring machine learning research and applications"
 
 ## Welcome
 
-Hi! I'm Caleb Cramer, a machine learning engineer focused on **numerical analysis**, **online learning**, and **computer vision**. This site showcases my projects, research, and technical work.
+Hi! I'm Caleb, a machine learning engineer focused on **numerical analysis**, **online learning**, and **computer vision**. This site showcases my projects, research, and technical work.
 
 ### Quick Links
 
